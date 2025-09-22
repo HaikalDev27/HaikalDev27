@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Flamingo : Fix Your Grammar (Game)](https://github.com/HaikalDev27/Flamingo-Editable-Script)
 
-- 🌱 I’m currently learning **React, Game Development**
+- 🌱 I’m currently learning **Web & Game Development**
 
 - 👨‍💻 All of my projects are available at [haikaruporto.pages.dev](haikaruporto.pages.dev)
 
