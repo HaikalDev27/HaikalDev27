@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haikaldev27" alt="haikaldev27" /></a> </p>
 
-- 🔭 I’m currently working on [Flamingo : Fix Your Grammar (Game)](https://github.com/HaikalDev27/Photobox)
+- 🔭 I’m currently working on [SNAP : Photo booth Aplication](https://github.com/HaikalDev27/Photobox)
 
 - 🌱 I’m currently learning **Web & Game Development**
 
